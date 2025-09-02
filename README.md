@@ -39,7 +39,7 @@ A simple, responsive portfolio website template built with Node.js, Express, and
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/portfolio-template.git
+   [git clone https://github.com/AkRawat3278/Modern-Portfolio-Template-.git]
    cd portfolio-template
    ```
 
